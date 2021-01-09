@@ -1,0 +1,4 @@
+[0107/165606.146:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[0108/000952.750:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\vicky shaw\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\ab8bbccd-b27e-49ed-8305-6f5da591dcfc: The system cannot find the path specified. (0x3)
+[0108/080630.096:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[0108/225012.457:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
